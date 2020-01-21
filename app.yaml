@@ -1,0 +1,7 @@
+runtime: nodejs10
+
+env_variables:
+  DB_NAME: "cloudDB"
+  USERNAME: "admin"
+  PASSWORD: "admin"
+  CLOUD_SQL_CONNECTION_NAME: "backend-261116:us-central1:cloud-db"
